@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'phone-market';
+  constructor() {}
+
+
+  ngOnInit(): void {
+  }
 }
